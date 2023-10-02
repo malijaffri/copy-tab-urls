@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "Copy Tab URLs",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Add a menu item to the tab context menus that copies the URLs of all selected tabs.",
+		"description": "Description of the extension."
+	}
+}
