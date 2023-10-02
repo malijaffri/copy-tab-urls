@@ -6,7 +6,12 @@
 	"description": "__MSG_extensionDescription__",
 	"homepage_url": "https://github.com/malijaffri/ff-copy-tab-urls",
 	"icons": {
-		"48": "icons/copyUrls-48.png"
+		"16": "icons/copyUrls.svg",
+		"32": "icons/copyUrls.svg",
+		"48": "icons/copyUrls.svg",
+		"64": "icons/copyUrls.svg",
+		"96": "icons/copyUrls.svg",
+		"128": "icons/copyUrls.svg"
 	},
 
 	"permissions": ["contextMenus", "tabs"],
