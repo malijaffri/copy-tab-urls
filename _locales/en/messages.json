@@ -6,5 +6,9 @@
 	"extensionDescription": {
 		"message": "Add a menu item to the tab context menus that copies the URLs of all selected tabs.",
 		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Copy &URLs",
+		"description": "Title of the context menu item."
 	}
 }

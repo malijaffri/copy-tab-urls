@@ -5,7 +5,7 @@ function createdMenuItem(n) {
 }
 const menuItem = {
 	id: "copy_url",
-	title: "Copy Tab &URLs",
+	title: browser.i18n.getMessage("contextItemTitle"),
 	contexts: ["tab"],
 };
 browser.contextMenus.create(menuItem, createdMenuItem);
