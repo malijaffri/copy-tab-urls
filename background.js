@@ -20,7 +20,9 @@ function copyUrl(sender, tabs) {
 	}
 }
 
+const tabsQuery = { currentWindow: true, highlighted: true };
+
 browser.contextMenus.onClicked.addListener(function (info, sender) {
-	const querying = browser.tabs.query({ highlighted: true });
+	const querying = browser.tabs.query(tabsQuery);
 	querying.then(copyUrl.bind(null, sender));
 });
