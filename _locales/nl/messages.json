@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Kopieer Tabblad-URLs",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Voeg een menu-item toe aan de tabblad contextmenu's dat de URL's van alle geselecteerde tabbladen kopieert.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Kopieer &URLs",
+		"description": "Title of the context menu item."
+	}
+}

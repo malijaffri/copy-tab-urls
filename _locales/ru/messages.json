@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Копировать URL-адреса вкладок",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Добавьте в контекстное меню вкладок пункт, который копирует URL-адреса всех выбранных вкладок.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Копировать &URL",
+		"description": "Title of the context menu item."
+	}
+}
