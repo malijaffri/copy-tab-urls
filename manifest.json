@@ -9,7 +9,7 @@
 		"48": "icons/copyUrls-48.png"
 	},
 
-	"permissions": ["contextMenus"],
+	"permissions": ["contextMenus", "tabs"],
 
 	"browser_specific_settings": {
 		"gecko": {
