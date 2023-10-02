@@ -13,15 +13,11 @@
 
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "copy-tab-urls@malijaffri.github.io"
-		}
-	},
-
-	"applications": {
-		"gecko": {
+			"id": "copy-tab-urls@malijaffri.github.io",
 			"strict_min_version": "55.0"
 		}
 	},
+
 	"background": {
 		"scripts": ["background.js"]
 	},
