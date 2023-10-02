@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	"name": "Copy Tab URLs",
+	"version": "0.0.1",
+
+	"description": "Add a menu item to the tab context menus that copies the URLs of all selected tabs.",
+	"homepage_url": "https://github.com/malijaffri/ff-copy-tab-urls",
+	"icons": {
+		"48": "icons/copyUrls-48.png"
+	},
+
+	"permissions": ["contextMenus"],
+
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "copy-tab-urls@malijaffri.github.io"
+		}
+	},
+
+	"applications": {
+		"gecko": {
+			"strict_min_version": "55.0"
+		}
+	},
+	"background": {
+		"scripts": ["background.js"]
+	}
+}
