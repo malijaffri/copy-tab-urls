@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "复制选项卡 URL",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "将菜单项添加到选项卡上下文菜单，复制所有选定选项卡的 URL",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "复制网址",
+		"description": "Title of the context menu item."
+	}
+}

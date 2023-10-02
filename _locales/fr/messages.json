@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Copier les URL des Onglets",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Ajouter un élément de menu aux menus contextuels des onglets qui copie les URL de tous les onglets sélectionnés.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Copier les &URL",
+		"description": "Title of the context menu item."
+	}
+}

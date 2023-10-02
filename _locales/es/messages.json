@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Copiar URL de Pestañas",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Agregue un elemento de menú a los menús contextuales de las pestañas que copie las URL de todas las pestañas seleccionadas.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Copiar &URL",
+		"description": "Title of the context menu item."
+	}
+}

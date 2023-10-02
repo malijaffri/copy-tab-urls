@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Tab-URLs Kopieren",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Fügen Sie den Tab-Kontextmenüs einen Menüpunkt hinzu, der die URLs aller ausgewählten Tabs kopiert.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "&URLs kopieren",
+		"description": "Title of the context menu item."
+	}
+}

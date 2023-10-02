@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "نسخ عنوان URL لعلامات التبويب",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "أضف عناصر قائمة إلى قائمة سياق علامة التبويب التي تنسخ عناوين URL لجميع علامات التبويب المحددة.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "نسخ عنوان &URL",
+		"description": "Title of the context menu item."
+	}
+}

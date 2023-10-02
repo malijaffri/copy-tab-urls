@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "Copia l'URL Delle Schede",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Aggiungi una voce di menu i menu contestuali delle schede che copia gli URL di tutte le schede selezionate.",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "Copia &URL",
+		"description": "Title of the context menu item."
+	}
+}

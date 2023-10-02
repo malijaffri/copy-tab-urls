@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "複製選項卡 URL",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "將選單項目新增至選項卡上下文選單，複製所有選定選項卡的 URL。",
+		"description": "Description of the extension."
+	},
+	"contextItemTitle": {
+		"message": "複製網址",
+		"description": "Title of the context menu item."
+	}
+}
