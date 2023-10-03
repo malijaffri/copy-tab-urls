@@ -2,7 +2,7 @@
 FireFox extension to copy URLs of all selected tabs to the clipboard.
 
 ## Installation
-1. Download the [latest release](https://github.com/malijaffri/ff-copy-tab-urls/releases/latest) of this addon
+1. Download the [latest release](https://github.com/malijaffri/copy-tab-urls/releases/latest) of this addon
 2. Open FireFox desktop
 3. Visit the [Addons page](about:addons)
 4. Click the "Settings" gear button

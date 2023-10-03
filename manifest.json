@@ -4,7 +4,7 @@
 	"version": "0.0.1",
 
 	"description": "__MSG_extensionDescription__",
-	"homepage_url": "https://github.com/malijaffri/ff-copy-tab-urls",
+	"homepage_url": "https://github.com/malijaffri/copy-tab-urls",
 	"icons": {
 		"16": "icons/copyUrls.svg",
 		"32": "icons/copyUrls.svg",
