@@ -1,3 +1,9 @@
+## 1.0.1 (2023-10-03)
+
+### Features
+
+* Published on AMO
+
 # 1.0.0 (2023-10-03)
 
 ### Features
