@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="220"
+   width="323"
    height="323"
-   viewBox="0 0 220 323"
+   viewBox="0 0 323 323"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +30,8 @@
   </defs>
   <g
      id="layer1"
-     clip-path="url(#clipPath67)">
+     clip-path="url(#clipPath67)"
+     transform="translate(51.5)">
     <rect
        style="fill:none;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
@@ -43,7 +44,8 @@
   </g>
   <g
      id="layer3"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(51.5)">
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect2"
@@ -55,7 +57,8 @@
        rx="10" />
   </g>
   <g
-     id="layer4">
+     id="layer4"
+     transform="matrix(0.82287534,0,0,0.82287534,70.983713,29.934067)">
     <g
        id="g176"
        transform="matrix(1.0017805,1.0017805,-1.0017805,1.0017805,145.06232,-86.454024)">
