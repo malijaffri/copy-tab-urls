@@ -18,6 +18,9 @@ That's it! The addon is now installed.
 
 The URLs of the selected tabs are now copied to your clipboard. You can paste them wherever you want.
 
+## Credits
+Got idea for "Tree Style Tabs" support from [mkopec/close-tabs-to-the-right](https://github.com/mkopec/close-tabs-to-the-right).
+
 ## Legal
 Copyright (c) 2023 malijaffri. All rights reserved.
 
