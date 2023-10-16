@@ -33,7 +33,7 @@
      clip-path="url(#clipPath67)"
      transform="translate(51.5)">
     <rect
-       style="fill:none;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#00FFFF;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="210"
        height="297"
@@ -47,7 +47,7 @@
      style="display:inline"
      transform="translate(51.5)">
     <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#00FFFF;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect2"
        width="110"
        height="45"
@@ -63,7 +63,7 @@
        id="g176"
        transform="matrix(1.0017805,1.0017805,-1.0017805,1.0017805,145.06232,-86.454024)">
       <rect
-         style="fill:none;fill-opacity:1;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#00FFFF;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
          id="rect68"
          width="80"
          height="40"
@@ -73,7 +73,7 @@
          ry="20"
          clip-path="url(#clipPath175)" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#008080;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#00FFFF;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
          id="rect176"
          width="80"
          height="40"
