@@ -1,17 +1,17 @@
 {
 	"manifest_version": 2,
 	"name": "__MSG_extensionName__",
-	"version": "1.0.0",
+	"version": "1.0.2",
 
 	"description": "__MSG_extensionDescription__",
 	"homepage_url": "https://github.com/malijaffri/copy-tab-urls",
 	"icons": {
-		"16": "icons/copyUrls.svg",
-		"32": "icons/copyUrls.svg",
-		"48": "icons/copyUrls.svg",
-		"64": "icons/copyUrls.svg",
-		"96": "icons/copyUrls.svg",
-		"128": "icons/copyUrls.svg"
+		"16": "icons/copyUrls-16.png",
+		"32": "icons/copyUrls-32.png",
+		"48": "icons/copyUrls-48.png",
+		"64": "icons/copyUrls-64.png",
+		"96": "icons/copyUrls-96.png",
+		"128": "icons/copyUrls-128.png"
 	},
 
 	"permissions": ["contextMenus", "tabs"],
@@ -19,7 +19,6 @@
 	"browser_specific_settings": {
 		"gecko": {
 			"id": "copy-tab-urls@malijaffri.github.io",
-			"update_url": "https://raw.githubusercontent.com/malijaffri/copy-tab-urls/main/manifest.json",
 			"strict_min_version": "55.0"
 		}
 	},
